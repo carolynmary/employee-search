@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-ISC-green) </br>
 
 # Employee Directory   
-[carolynmary.github.io/employee-directory](https://carolynmary.github.io/employee-directory/)
+[carolynmary.github.io/employee-search](https://carolynmary.github.io/employee-search/)
  
 - - -
 - - -

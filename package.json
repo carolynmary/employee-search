@@ -1,8 +1,8 @@
 {
-  "name": "employee-directory",
+  "name": "employee-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carolynmary.github.io/employee-directory",
+  "homepage": "https://carolynmary.github.io/employee-search",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
