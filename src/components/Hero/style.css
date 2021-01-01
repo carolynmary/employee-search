@@ -1,0 +1,19 @@
+.hero {
+  height: 150px;
+  background-color: #ddd;
+  /* background-size: cover;
+  background-position: center; */
+  position: relative;
+  /* color: #ffffff ; */
+}
+
+.hero h1 {
+  font-size: 40px;
+  padding-top: 30px;
+  margin-top: 0;
+}
+
+.hero h2 {
+  font-size: 18px;
+  font-weight: 300;
+}
