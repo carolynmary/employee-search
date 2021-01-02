@@ -22,7 +22,7 @@
 ## Credits
   
 <!-- Third Party Asset Creators? Tutorials> // link to web presence -->
-[Create React App](https://github.com/facebook/create-react-app) // This project was bootstrapped with React
+[Create React App](https://github.com/facebook/create-react-app) // This project was bootstrapped with React </br>
 [Random User API](https://randomuser.me/) // A free, open-source API for generating random user data. </br>
 
 ## License
