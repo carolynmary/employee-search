@@ -5,7 +5,8 @@ import Directory from "./pages/Directory";
 
 function App() {
   return (
-    <Router>
+    // <Router basename ="/employee-search">
+    <Router basename={window.location.pathname || ''}>
       <div>
         <Wrapper>
           <Route exact path="/" component={Directory} />
