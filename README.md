@@ -3,7 +3,7 @@
 <!-- Badges: MAY NEED TO ADJUST LICENSE BADGE URL -->
 ![License](https://img.shields.io/badge/License-ISC-green) </br>
 
-# Employee Directory   
+# Employee Directory Search   
 [carolynmary.github.io/employee-search](https://carolynmary.github.io/employee-search/)
  
 - - -
